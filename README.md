@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mr-Donot&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Project](https://github.com/Mr-Donot/QueensGame)
+- 🔭 I’m currently working on [QueensGame](https://github.com/Mr-Donot/QueensGame)
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me: **florian.daunay@gmail.com**
 
