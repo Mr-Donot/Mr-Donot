@@ -25,4 +25,4 @@
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:florian.daunay@gmail.com)
 
 ## 🎨 My Projects
-- [**Project 1**](https://github.com/Mr-Donot/QueensGame) - A Linkedin Queen game clone with a leaderboard and many differents map ! *work in progress...*
+- [**QueensGame**](https://github.com/Mr-Donot/QueensGame) - A Linkedin Queen game clone with a leaderboard and many differents map ! *work in progress...*
